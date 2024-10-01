@@ -1,4 +1,4 @@
-# Maria Atef Edward , 
+# Maria Atef Edward 
 
 
 def binary_num(num_str):  #this function ensures that the input is a binary numbers
